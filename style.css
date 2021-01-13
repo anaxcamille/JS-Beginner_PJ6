@@ -1,0 +1,28 @@
+*{
+	padding: 0;
+	margin: 0;
+	border-style: border-box;
+}
+body{
+	background-color: #96ceb4;
+}
+#inner{
+	background-image: url('https://www.smalltechnews.com/wp-content/uploads/2020/02/frc-efeae864b362660f32062d0fe4b9906a.jpg');
+	width: 700px;
+	height: 400px;
+	border:20px solid white;
+}
+.container{
+	margin: 20vh 0 0 50vh;
+}
+#left,#right{
+	width: 50px;
+	height: 50px;
+}
+#left{
+	 
+	float: left;
+}
+#right{
+	float: right;
+}
